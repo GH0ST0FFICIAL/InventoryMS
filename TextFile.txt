@@ -1,0 +1,2 @@
+﻿offers :
+1) if a product still has stock 20 days after entry
